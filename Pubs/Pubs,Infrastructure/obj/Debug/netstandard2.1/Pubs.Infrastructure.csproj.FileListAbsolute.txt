@@ -1,0 +1,13 @@
+C:\Pubs\Pubs\Pubs,Infrastructure\bin\Debug\netstandard2.1\Pubs.Infrastructure.deps.json
+C:\Pubs\Pubs\Pubs,Infrastructure\bin\Debug\netstandard2.1\Pubs.Infrastructure.dll
+C:\Pubs\Pubs\Pubs,Infrastructure\bin\Debug\netstandard2.1\Pubs.Infrastructure.pdb
+C:\Pubs\Pubs\Pubs,Infrastructure\bin\Debug\netstandard2.1\Pubs.Domain.dll
+C:\Pubs\Pubs\Pubs,Infrastructure\bin\Debug\netstandard2.1\Pubs.Domain.pdb
+C:\Pubs\Pubs\Pubs,Infrastructure\obj\Debug\netstandard2.1\Pubs.Infrastructure.csproj.AssemblyReference.cache
+C:\Pubs\Pubs\Pubs,Infrastructure\obj\Debug\netstandard2.1\Pubs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pubs\Pubs\Pubs,Infrastructure\obj\Debug\netstandard2.1\Pubs.Infrastructure.AssemblyInfoInputs.cache
+C:\Pubs\Pubs\Pubs,Infrastructure\obj\Debug\netstandard2.1\Pubs.Infrastructure.AssemblyInfo.cs
+C:\Pubs\Pubs\Pubs,Infrastructure\obj\Debug\netstandard2.1\Pubs.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Pubs\Pubs\Pubs,Infrastructure\obj\Debug\netstandard2.1\Pubs.Infrastructure.csproj.CopyComplete
+C:\Pubs\Pubs\Pubs,Infrastructure\obj\Debug\netstandard2.1\Pubs.Infrastructure.dll
+C:\Pubs\Pubs\Pubs,Infrastructure\obj\Debug\netstandard2.1\Pubs.Infrastructure.pdb

@@ -2,7 +2,7 @@
 {
     public interface ILocation
     {
-        string? City { get; set; }
-        char? State { get; set; }
+        public string? City { get; set; }
+        public char? State { get; set; }
     }
 }

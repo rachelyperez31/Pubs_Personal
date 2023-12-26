@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 
 namespace Pubs.Domain.Repository
 {
-    public interface IBaseRepository<TEntity> where TEntity : BaseEntity
+    public interface IBaseRepository<TEntity> where TEntity : class
     {
         void Save(TEntity entity);
         List<TEntity> GetEntities();

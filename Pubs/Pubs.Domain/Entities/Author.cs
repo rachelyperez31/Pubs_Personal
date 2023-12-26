@@ -1,9 +1,8 @@
 ﻿using Pubs.Domain.Core;
-using Pubs.Domain.Core.Interfaces;
 
 namespace Pubs.Domain.Entities
 {
-    public class Author : LocationZip
+    public class Author : Location
     {
         public int AuID { get; set; }
         public string AuLName { get; set; }

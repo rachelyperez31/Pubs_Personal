@@ -2,6 +2,6 @@
 {
     public interface ILocationZip : ILocation
     {
-        char? Zip { get; set; }
+        public char? Zip { get; set; }
     }
 }

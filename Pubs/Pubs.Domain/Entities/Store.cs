@@ -3,7 +3,7 @@ using Pubs.Domain.Core.Interfaces;
 
 namespace Pubs.Domain.Entities
 {
-    public class Store : LocationZip
+    public class Store : Core.ILocationZip
     {
         public int StoreID { get; set; }
         public string? StoreName { get; set; }

@@ -2,10 +2,10 @@
 
 namespace Pubs.Domain.Core
 {
-    public abstract class LocationZip : BaseEntity, ILocationZip
+    public abstract class ILocationZip : BaseEntity, ILocation
     {
-        string? ILocation.City { get; set; }
-        char? ILocation.State { get; set; }
-        char? ILocationZip.Zip { get; set; }
+        public char? Zip { get; set; }
+        public string? City { get; set; }
+        public char? State { get; set; }
     }
 }

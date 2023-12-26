@@ -1,0 +1,9 @@
+C:\Pubs\Pubs\Pubs.Domain\bin\Debug\netstandard2.1\Pubs.Domain.deps.json
+C:\Pubs\Pubs\Pubs.Domain\bin\Debug\netstandard2.1\Pubs.Domain.dll
+C:\Pubs\Pubs\Pubs.Domain\bin\Debug\netstandard2.1\Pubs.Domain.pdb
+C:\Pubs\Pubs\Pubs.Domain\obj\Debug\netstandard2.1\Pubs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pubs\Pubs\Pubs.Domain\obj\Debug\netstandard2.1\Pubs.Domain.AssemblyInfoInputs.cache
+C:\Pubs\Pubs\Pubs.Domain\obj\Debug\netstandard2.1\Pubs.Domain.AssemblyInfo.cs
+C:\Pubs\Pubs\Pubs.Domain\obj\Debug\netstandard2.1\Pubs.Domain.csproj.CoreCompileInputs.cache
+C:\Pubs\Pubs\Pubs.Domain\obj\Debug\netstandard2.1\Pubs.Domain.dll
+C:\Pubs\Pubs\Pubs.Domain\obj\Debug\netstandard2.1\Pubs.Domain.pdb
