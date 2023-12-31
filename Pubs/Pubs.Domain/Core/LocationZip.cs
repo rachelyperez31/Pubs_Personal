@@ -6,6 +6,6 @@ namespace Pubs.Domain.Core
     {
         public char? Zip { get; set; }
         public string? City { get; set; }
-        public char? State { get; set; }
+        public string? State { get; set; }
     }
 }

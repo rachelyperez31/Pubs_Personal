@@ -62,7 +62,7 @@ namespace Pubs_Infrastructure.Repositories
             return GetStores().Where(st => st.City == city).ToList();
         }
 
-        public List<Store> GetEntityByState(char state)
+        public List<Store> GetEntityByState(string state)
         {
             return GetStores().Where(st => st.State == state).ToList();
         }

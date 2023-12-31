@@ -6,7 +6,7 @@ namespace Pubs_Infrastructure.Models
     {
         public int StoreID { get; set; }
         public string? StoreName { get; set; }
-        public int DiscountType { get; set; }
+        public string DiscountType { get; set; }
         public decimal DiscountAmount { get; set; }
         public short? LowQty { get; set; }
         public short? HighQty { get; set; }
@@ -20,5 +20,7 @@ namespace Pubs_Infrastructure.Models
         public int? Royalty { get; set; }
         public int DiscountID { get; set; }
         public DateTime OrdDate { get; set; }
+
+        public string Payterms { get; set; }
     }
 }

@@ -46,9 +46,16 @@ namespace Pubs_Infrastructure.Repositories
                            join pub in _context.Publishers on t.PubID equals pub.PubID
                            select new PublicationModel
                            {
+                               AuID = au.AuID,
+                               TitleID = t.TitleID,
+                               PubID = pub.PubID,
                                AuFName = au.AuFName,
                                AuLName = au.AuLName,
-                               PubName = pub.PubName
+                               PubName = pub.PubName,
+                               Phone = au.Phone,
+                               Address = au.Address,
+                               City = au.City,
+                               State = au.State
                            }
                            ).ToList();
 
@@ -90,7 +97,7 @@ namespace Pubs_Infrastructure.Repositories
             return authors;
         }
 
-        public List<PublicationModel> GetEntityByState(char state)
+        public List<PublicationModel> GetEntityByState(string state)
         {
             var authors = (from au in this.GetAuthors()
                            where au.State == state

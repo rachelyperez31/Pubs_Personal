@@ -1,5 +1,4 @@
 ﻿using Pubs.Domain.Core;
-using Pubs.Domain.Core.Interfaces;
 
 namespace Pubs.Domain.Entities
 {

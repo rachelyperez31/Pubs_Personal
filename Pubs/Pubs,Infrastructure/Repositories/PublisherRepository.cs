@@ -74,7 +74,7 @@ namespace Pubs_Infrastructure.Repositories
             return GetPublishers().Where(pub => pub.City == city).ToList();
         }
 
-        public List<Publisher> GetEntityByState(char state)
+        public List<Publisher> GetEntityByState(string state)
         {
             return GetPublishers().Where(pub => pub.State == state).ToList();   
         }
